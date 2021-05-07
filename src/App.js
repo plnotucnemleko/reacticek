@@ -25,7 +25,7 @@ function App() {
         >
           Seznam
         </a>
-        <p>Ahoj</p>
+        <p>Ahoj2</p>
       </header>
     </div>
   );
