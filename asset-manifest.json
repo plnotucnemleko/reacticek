@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reacticek/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/reacticek/static/js/main.b3a844dd.chunk.js",
-    "main.js.map": "/reacticek/static/js/main.b3a844dd.chunk.js.map",
+    "main.js": "/reacticek/static/js/main.3d959eb6.chunk.js",
+    "main.js.map": "/reacticek/static/js/main.3d959eb6.chunk.js.map",
     "runtime-main.js": "/reacticek/static/js/runtime-main.d5495dde.js",
     "runtime-main.js.map": "/reacticek/static/js/runtime-main.d5495dde.js.map",
     "static/js/2.b650ee46.chunk.js": "/reacticek/static/js/2.b650ee46.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d5495dde.js",
     "static/js/2.b650ee46.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.b3a844dd.chunk.js"
+    "static/js/main.3d959eb6.chunk.js"
   ]
 }
