@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacticek/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/reacticek/static/js/main.79ae179b.chunk.js",
+    "main.js.map": "/reacticek/static/js/main.79ae179b.chunk.js.map",
+    "runtime-main.js": "/reacticek/static/js/runtime-main.d5495dde.js",
+    "runtime-main.js.map": "/reacticek/static/js/runtime-main.d5495dde.js.map",
+    "static/js/2.b650ee46.chunk.js": "/reacticek/static/js/2.b650ee46.chunk.js",
+    "static/js/2.b650ee46.chunk.js.map": "/reacticek/static/js/2.b650ee46.chunk.js.map",
+    "static/js/3.f653d646.chunk.js": "/reacticek/static/js/3.f653d646.chunk.js",
+    "static/js/3.f653d646.chunk.js.map": "/reacticek/static/js/3.f653d646.chunk.js.map",
+    "index.html": "/reacticek/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/reacticek/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b650ee46.chunk.js.LICENSE.txt": "/reacticek/static/js/2.b650ee46.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reacticek/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5495dde.js",
+    "static/js/2.b650ee46.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.79ae179b.chunk.js"
+  ]
+}
