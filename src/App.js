@@ -17,6 +17,14 @@ function App() {
         >
           Learn React
         </a>
+            <a
+          className="App-link"
+          href="http://seznam.cz"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Seznam
+        </a>
         <p>Ahoj</p>
       </header>
     </div>
